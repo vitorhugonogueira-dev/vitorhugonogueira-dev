@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vitorhugonogueira-dev
-- 👀 I’m interested in  learn and develop
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @vitorhugonogueira-dev;
+- 👀 I’m interested in  learn and develop;
+- 🌱 I’m currently learning JAVA;
+- 💞️ I’m looking to collaborate on knowledge;
 - 📫 How to reach me: get in touch whith vitorhugonogueira0@gmail.com
 
 <!---
